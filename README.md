@@ -8,4 +8,4 @@ PyCharm ingyenes debug eszköz is.
 WSGI web szerver python-nal
 
 2.
-https://bit.ly
+https://bit.lypyoktatas2
