@@ -21,3 +21,4 @@ refactoring -> kód újraírása unbiverzális módra
 map, reduce, filter a nagy halmazok kezelésére szolgáló mesterhármas.
 pep8 olvasása segít egyszerűsíteni a kódot.
 
+py2exe halott projekt!
