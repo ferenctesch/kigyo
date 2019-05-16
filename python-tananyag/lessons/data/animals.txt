@@ -1,0 +1,8 @@
+panda
+giraffe
+wombat
+polar bear
+hippopotamus
+penguin
+meerkat
+rhinoceros
