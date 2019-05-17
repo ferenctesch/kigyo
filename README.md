@@ -10,7 +10,7 @@ PyCharm ingyenes debug eszköz is.
 WSGI web szerver python-nal
 
 2.
-Jupiter doksik: https://bit.lypyoktatas2
+Jupiter doksik: https://bit.ly/pyoktatas2
 pip (python install packages)
 python standard library (https://docs.python.org/3/library/)
 
@@ -25,3 +25,6 @@ py2exe halott projekt!
 
 auto-py-to-exe  !!!
 https://regex101.com
+
+3.
+Jupiter doksik: https://bit.ly/pyoktatas3
